@@ -18,7 +18,7 @@
 
 🎓 Computer engineer from Rafael Urdaneta University <br>
 💡 I like to learn new technology and accept challenges <br>
-👩‍💻 I am currently developing Angular applications with smart contract integrations (Blockchain). <br>
+👩‍💻 I am currently developing Angular apps with smart contract integrations (Blockchain). <br>
 📝 Linkedin [link](https://www.linkedin.com/in/rsulbaranc/) <br>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
